@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0078D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Eisenhower Matrix</label>
+    <navType>Standard</navType>
+    <tabs>Eisenhower_Matrix</tabs>
+    <tabs>Eisenhower_Matrix__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Eisenhower_Matrix_UtilityBar</utilityBar>
+</CustomApplication>
